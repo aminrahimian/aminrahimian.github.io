@@ -50,7 +50,7 @@ body {
 }
 
 #background_charles {
-    background: url(images/Charles.jpg);
+    /* background: url(images/Charles.jpg); */
     background-repeat: no-repeat;
     background-size: cover;
 }
